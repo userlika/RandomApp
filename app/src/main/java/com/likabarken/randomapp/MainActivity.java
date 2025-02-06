@@ -25,11 +25,20 @@ public class MainActivity extends AppCompatActivity {
         });
 
         TextView textViewOptionYesNo = findViewById(R.id.textViewOptionYesNo);
+        TextView textViewOptionHeadsAndTails = findViewById(R.id.textViewOptionHeadsAndTails);
 
         textViewOptionYesNo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 launchNextScreen(MainActivity.this, YesNoActivity.class);
+
+            }
+        });
+
+        textViewOptionHeadsAndTails.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                launchNextScreen(MainActivity.this, HeadsAndTailsActivity.class);
 
             }
         });

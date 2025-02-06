@@ -5,4 +5,5 @@
     <string name="tw_dice">Dice</string>
     <string name="tw_spin_the_bottle">Spin the bottle</string>
     <string name="tw_random_number">Random number</string>
+    <string name="descr_coins_heads">Coin heads</string>
 </resources>
