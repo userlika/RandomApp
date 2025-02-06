@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textViewOptionYesNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tw_yes_no_maybe"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/african_violet"
+        android:padding="30dp"
+        android:layout_weight="1"
+        android:background="@color/platinum" />
+    <TextView
+        android:id="@+id/textViewOptionHeadsAndTails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tw_heads_and_tails"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/platinum"
+        android:padding="30dp"
+        android:layout_weight="1"
+        android:background="@color/african_violet" />
+    <TextView
+        android:id="@+id/textViewOptionDice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tw_dice"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/african_violet"
+        android:padding="30dp"
+        android:layout_weight="1"
+        android:background="@color/liberty" />
+    <TextView
+        android:id="@+id/textViewOptionSpinTheBottle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tw_spin_the_bottle"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/african_violet"
+        android:padding="30dp"
+        android:layout_weight="1"
+        android:background="@color/royal_purple" />
+    <TextView
+        android:id="@+id/textViewOptionRandomNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tw_random_number"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/african_violet"
+        android:padding="30dp"
+        android:layout_weight="1"
+        android:background="@color/dark_lavender" />
+</LinearLayout>

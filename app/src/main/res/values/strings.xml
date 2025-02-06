@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomApp</string>
+    <string name="tw_yes_no_maybe">Yes/No/Maybe</string>
+    <string name="tw_heads_and_tails">Heads and tails</string>
+    <string name="tw_dice">Dice</string>
+    <string name="tw_spin_the_bottle">Spin the bottle</string>
+    <string name="tw_random_number">Random number</string>
+</resources>
