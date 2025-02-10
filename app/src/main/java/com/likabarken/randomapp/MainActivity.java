@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView textViewOptionYesNo = findViewById(R.id.textViewOptionYesNo);
         TextView textViewOptionHeadsAndTails = findViewById(R.id.textViewOptionHeadsAndTails);
+        TextView textViewOptionRandomNumber = findViewById(R.id.textViewOptionRandomNumber);
 
         textViewOptionYesNo.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -39,6 +40,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 launchNextScreen(MainActivity.this, HeadsAndTailsActivity.class);
+
+            }
+        });
+
+        textViewOptionRandomNumber.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                launchNextScreen(MainActivity.this, RandomNumberActivity.class);
 
             }
         });

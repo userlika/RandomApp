@@ -6,4 +6,8 @@
     <string name="tw_spin_the_bottle">Spin the bottle</string>
     <string name="tw_random_number">Random number</string>
     <string name="descr_coins_heads">Coin heads</string>
+    <string name="tw_input_range">Input range:</string>
+    <string name="tw_from">from:</string>
+    <string name="tw_to">to:</string>
+    <string name="btn_generate_random_number">Generate random number</string>
 </resources>
