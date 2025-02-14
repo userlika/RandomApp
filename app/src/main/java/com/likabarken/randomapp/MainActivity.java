@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
         TextView textViewOptionYesNo = findViewById(R.id.textViewOptionYesNo);
         TextView textViewOptionHeadsAndTails = findViewById(R.id.textViewOptionHeadsAndTails);
         TextView textViewOptionRandomNumber = findViewById(R.id.textViewOptionRandomNumber);
+        TextView textViewOptionDice = findViewById(R.id.textViewOptionDice);
+        TextView textViewOptionSpinTheBottle = findViewById(R.id.textViewOptionSpinTheBottle);
 
         textViewOptionYesNo.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -40,6 +42,22 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 launchNextScreen(MainActivity.this, HeadsAndTailsActivity.class);
+
+            }
+        });
+
+        textViewOptionDice.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                launchNextScreen(MainActivity.this, DiceActivity.class);
+
+            }
+        });
+
+        textViewOptionSpinTheBottle.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                launchNextScreen(MainActivity.this, SpinTheBottleActivity.class);
 
             }
         });

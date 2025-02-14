@@ -10,4 +10,11 @@
     <string name="tw_from">from:</string>
     <string name="tw_to">to:</string>
     <string name="btn_generate_random_number">Generate random number</string>
+    <string name="dice_1">Dice 1</string>
+    <string name="dice_2">Dice 2</string>
+    <string name="dice_3">Dice 3</string>
+    <string name="dice_4">Dice 4</string>
+    <string name="dice_5">Dice 5</string>
+    <string name="dice_6">Dice 6</string>
+    <string name="bottle">Bottle</string>
 </resources>
