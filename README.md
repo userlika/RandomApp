@@ -1,18 +1,18 @@
 # RandomApp 🎲✨
 
-**RandomApp** is your ultimate fun toolbox for quick decisions, games, and randomness! Perfect for parties, debates, or just killing boredom. 🎉🍾
+**RandomApp** is your ultimate fun toolbox for quick decisions, games, and randomness! Perfect for parties, debates, or just get rif of boredom. 
 
 ---
 
 ## 🚀 Features
 
-| Feature               | Emoji | Description                                                                 |
-|-----------------------|-------|-----------------------------------------------------------------------------|
-| **Yes/No/Maybe**      | ✅/❌/🤔 | Get instant answers with a cheeky "maybe" twist!                            |
-| **Heads or Tails**    | 🪙     | Flip a virtual coin—perfect for settling bets!                              |
-| **Random Number**     | 🔢     | Generate numbers in any range (e.g., 1-1000).                              |
-| **Dice Roll**         | 🎲     | Roll a classic 6-sided dice for games or decisions.                         |
-| **Spin the Bottle**   | 🍾     | Virtual spin-the-bottle for parties or playful choices! 💃🕺               |
+| Feature               |Description                                                                 |
+|-----------------------|------------------------------------------------------------------------------------|
+| **Yes/No/Maybe**    ✅/❌/🤔 | Get instant answers with a cheeky "maybe" twist!                            |
+| **Heads or Tails**   🪙      | Flip a virtual coin—perfect for settling bets!                              |
+| **Random Number** 🔢         | Generate numbers in any range (e.g., 1-1000).                              |
+| **Dice Roll** 🎲             | Roll a classic 6-sided dice for games or decisions.                         |
+| **Spin the Bottle** 🍾       | Virtual spin-the-bottle for parties or playful choices! 💃🕺               |
 
 ---
 
@@ -31,19 +31,19 @@
 ## 🛠️ How to Use
 
 1. **Yes/No/Maybe** 🌈  
-   👉 Tap the button and let fate decide!
+   - Tap the button and let fate decide!
 
 2. **Heads or Tails** 🪙  
-   👉 Flip the coin with a single tap!
+   - Flip the coin with a single tap!
 
 3. **Random Number** 🔢  
-   👉 Enter your range (e.g., 1-50) and hit *Generate*!
+   - Enter your range (e.g., 1-50) and hit *Generate*!
 
 4. **Dice Roll** 🎲  
-   👉 Shake your phone or tap to roll!
+   - Shake your phone or tap to roll!
 
 5. **Spin the Bottle** 🍾  
-   👉 Spin the virtual bottle and see who it picks! 🎯
+   - Spin the virtual bottle and see who it picks! 🎯
 
 ---
 
