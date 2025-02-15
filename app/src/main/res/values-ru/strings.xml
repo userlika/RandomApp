@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RandomApp</string>
+    <string name="tw_yes_no_maybe">Да/Нет/Может быть</string>
+    <string name="tw_heads_and_tails">Орел и решка</string>
+    <string name="tw_dice">Игральный кубик</string>
+    <string name="tw_spin_the_bottle">Бутылочка</string>
+    <string name="tw_random_number">Случайное число</string>
+    <string name="descr_coins_heads">Решка</string>
+    <string name="tw_input_range">Введите диапазон:</string>
+    <string name="tw_from">от:</string>
+    <string name="tw_to">до:</string>
+    <string name="btn_generate_random_number">Сгенерировать случайное число</string>
+    <string name="dice_1">Один</string>
+    <string name="dice_2">Два</string>
+    <string name="dice_3">Три</string>
+    <string name="dice_4">Четыре</string>
+    <string name="dice_5">Пять</string>
+    <string name="dice_6">Шесть</string>
+    <string name="bottle">Бутылка</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="maybe">Может быть</string>
+    <string name="ask_your_question">Задайте свой вопрос и нажмите на кнопку</string>
+    <string name="find_out_the_answer">Узнать ответ</string>
+</resources>

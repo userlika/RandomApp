@@ -3,5 +3,6 @@
     <style name="Base.Theme.RandomApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <item name="colorPrimary">@color/dark_lavender</item>
+        <item name="android:statusBarColor">@color/liberty</item>
     </style>
 </resources>

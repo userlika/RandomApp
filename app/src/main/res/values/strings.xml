@@ -17,4 +17,9 @@
     <string name="dice_5">Dice 5</string>
     <string name="dice_6">Dice 6</string>
     <string name="bottle">Bottle</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="ask_your_question">Ask your question and press the button</string>
+    <string name="find_out_the_answer">Find out the answer</string>
 </resources>
